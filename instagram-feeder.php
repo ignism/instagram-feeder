@@ -32,8 +32,8 @@ if (!class_exists('InstagramFeeder')) {
             $this->api = array(
                 'type' => 'instagram',
                 'auth' => array(
-                    'key' => '4e23973a569c4f53b9b341938977b8ce',
-                    'secret' => 'f52dc97476bb4ed88d52438aba1d3052',
+                    'key' => '',
+                    'secret' => '',
                     'token' => $token
                 )
             );
